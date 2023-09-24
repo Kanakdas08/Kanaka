@@ -1,2 +1,3 @@
 # Kanaka
-This is my first git work 
+This is my first git work <br>
+1st work
